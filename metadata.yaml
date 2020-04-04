@@ -1,5 +1,5 @@
 _repo: Ellen_61675
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Welie, Antoon van
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '51558'
     url: http://www.gutenberg.org/2009/agents/51558
     wikipedia: https://nl.wikipedia.org/wiki/Antoon_van_Welie
+covers:
+- cover_type: archival
+  image_path: 61675-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -26,6 +29,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Lorrain
     - https://en.wikipedia.org/wiki/Jean_Lorrain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61675#Ellen
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Nouvelles
