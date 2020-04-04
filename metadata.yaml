@@ -1,0 +1,45 @@
+_repo: Ellen_61675
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Welie, Antoon van
+    aliases:
+    - Van Welie, Antoon
+    - Welie, Johannes Antonius van
+    - Wélie, Antoon Van
+    birthdate: 1866
+    deathdate: 1956
+    gutenberg_agent_id: '51558'
+    url: http://www.gutenberg.org/2009/agents/51558
+    wikipedia: https://nl.wikipedia.org/wiki/Antoon_van_Welie
+creator:
+  author:
+    agent_name: Lorrain, Jean
+    aliases:
+    - Duval, Paul Alexandre Martin
+    - Lorrain, J. (Jean)
+    birthdate: 1855
+    deathdate: 1906
+    gutenberg_agent_id: '41171'
+    url: http://www.gutenberg.org/2009/agents/41171
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_Lorrain
+    - https://en.wikipedia.org/wiki/Jean_Lorrain
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Nouvelles
+gutenberg_issued: '2020-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61675'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Ellen
+url: http://www.gutenberg.org/ebooks/61675
